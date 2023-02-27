@@ -1,0 +1,2 @@
+print("stanly")
+print("tharshan")
